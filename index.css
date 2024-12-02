@@ -1036,6 +1036,7 @@ h2 {
     margin-top: 10px;
     text-decoration: underline;
     color: rgb(56, 74, 98);
+    cursor: pointer;
 }
 
 @media screen and (max-width:850px) {
@@ -1094,10 +1095,12 @@ footer {
     margin-top: 15px;
     color: white;
     list-style: none;
+    cursor: pointer;
 }
 
-.fspn1 {
+.fspn1, .fimgb {
     padding-left: 25px;
+    cursor: pointer;
 }
 
 .fli1 {
