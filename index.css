@@ -814,6 +814,7 @@ h2 {
 
 .s5div2 {
     padding-left: 100px;
+    margin-top: 30px;
 }
 
 @media screen and (max-width:850px) {
@@ -1089,17 +1090,23 @@ footer {
 }
 
 .ful1 {
-    font-family: sans-serif;
     font-weight: 600;
-    line-height: 25px;
     margin-top: 15px;
     color: white;
     list-style: none;
+    font-size: 15px;
+}
+.flia{
     cursor: pointer;
+    font-family: sans-serif;
+    margin-top: 10px;
 }
 
-.fspn1, .fimgb {
+.fspn1 {
     padding-left: 25px;
+    cursor: pointer;
+}
+.fimgb{
     cursor: pointer;
 }
 
